@@ -1,5 +1,11 @@
 import React from 'react';
 import { render } from 'react-dom';
 import { App } from './App';
+import { MyEditor } from './MyEditor';
 
-render(<App />, document.getElementById('root'));
+render(
+  <div>
+    <App />
+  </div>,
+  document.getElementById('root')
+);
