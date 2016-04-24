@@ -1,7 +1,7 @@
-// import React from 'react';
+import React from 'react';
 import {Editor, EditorState, RichUtils} from 'draft-js';
-import InlineStyleControls from './InlineStyleControls';
 import BlockStyleControls from './BlockStyleControls';
+import InlineStyleControls from './InlineStyleControls';
 
 export default class RichEditorExample extends React.Component {
   constructor(props) {
