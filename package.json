@@ -29,9 +29,9 @@
   "author": "Tushar Jain <jain00tushar@gmail.com> (http://github.com/tushar00jain)",
   "license": "CC0-1.0",
   "bugs": {
-    "url": "https://github.com/gaearon/react-transform-boilerplate/issues"
+    "url": "https://github.com/tushar00jain/react-d3/issues"
   },
-  "homepage": "https://github.com/gaearon/react-transform-boilerplate",
+  "homepage": "https://github.com/tushar00jain/react-d3",
   "devDependencies": {
     "babel-core": "^6.6.5",
     "babel-eslint": "^5.0.0-beta4",
